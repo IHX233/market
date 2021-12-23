@@ -24,14 +24,13 @@
 
 #### Profile
 
-|我的 ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/10.png)  |
+我的 ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/10.png)  |
 |---|---|---|
 
 
 
 #### Detail
 
-|商品 ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/11.png) |参数  ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/12.png)|评论&&推荐![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/13.png)   |
-|---|---|---|
+|商品 ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/11.png) |参数  ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/12.png)|评论&&推荐![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/13.png)   
 
 
