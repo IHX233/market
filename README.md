@@ -14,16 +14,12 @@
 
 #### Category
 
-|歌单 ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/4.png)  
-|歌单 ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/5.png)  
-|歌单 ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/6.png)  |
+|歌单 ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/4.png)  |歌单 ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/5.png)  |歌单 ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/6.png)  |
 |---|---|---|
 
 #### Market
 
-| 排行榜 ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/7.png) 
-|排行榜  ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/8.png) 
-|排行榜  ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/9.png) |
+| 排行榜 ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/7.png) |排行榜  ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/8.png) |排行榜  ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/9.png) |
 |---|---|---|
 
 #### Profile
@@ -35,9 +31,7 @@
 
 #### Detail
 
-|最新mv ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/11.png) 
-|mv排行  ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/12.png)  
-|mv播放![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/13.png)   |
+|最新mv ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/11.png) |mv排行  ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/12.png)|mv播放![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/13.png)   |
 |---|---|---|
 
 
