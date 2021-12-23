@@ -9,29 +9,29 @@
 
 #### Home
 
-| light主题 ![light主题](https://github.com/IHX233/Gallery/blob/main/market/1.png)|dark主题 ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/2.png)|green主题 ![green主题](https://github.com/IHX233/Gallery/blob/main/market/3.png)|
+| 首页 ![](https://github.com/IHX233/Gallery/blob/main/market/1.png)|首页 ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/2.png)|首页 ![](https://github.com/IHX233/Gallery/blob/main/market/3.png)|
 |---|---|---|
 
 #### Category
 
-|歌单 ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/4.png)  |歌单 ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/5.png)  |歌单 ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/6.png)  |
+|分类 ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/4.png)  |分类 ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/5.png)  |分类 ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/6.png)  |
 |---|---|---|
 
 #### Market
 
-| 排行榜 ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/7.png) |排行榜  ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/8.png) |排行榜  ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/9.png) |
+| 全选 ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/7.png) |全不选  ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/8.png) |部分选中  ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/9.png) |
 |---|---|---|
 
 #### Profile
 
-|歌手 ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/10.png)  |
+|我的 ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/10.png)  |
 |---|---|---|
 
 
 
 #### Detail
 
-|最新mv ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/11.png) |mv排行  ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/12.png)|mv播放![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/13.png)   |
+|商品 ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/11.png) |参数  ![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/12.png)|评论&&推荐![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/13.png)   |
 |---|---|---|
 
 
